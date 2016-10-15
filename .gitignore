@@ -1,0 +1,7 @@
+venv/
+*.sqlite3
+*.log
+*.pot
+*.py[co]
+.idea/workspace.xml
+.idea/
